@@ -1,6 +1,5 @@
 ## 👋 Oi! Eu sou Neto Lins
-- ™️  JavaScript Full Stack 
-- 💻 Web Developer
+™️  JavaScript Full Stack  💻 Web Developer
 <div align="center">
  <a href="https://github.com/netovisckcode">
  <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=netovisckcode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -9,9 +8,13 @@
 
 <div dir="auto">
 <br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
-  </div>
+<img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+<img align="center" alt="Neto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
+<img align="center" alt="Neto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
+<img align="center" alt="Neto-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="max-width: 100%;">
+<img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+<img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+</div>
 
  ##
   
